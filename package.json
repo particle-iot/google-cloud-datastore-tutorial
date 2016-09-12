@@ -1,0 +1,16 @@
+{
+  "name": "particle-google-cloud-datastore-tutorial",
+  "version": "0.0.1",
+  "description": "A script to insert Particle events into a Google Cloud Platform Datastore database",
+  "main": "tutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Eiden",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "google-cloud": "^0.40.0",
+    "util": "^0.10.3"
+  }
+}
