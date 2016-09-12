@@ -15,10 +15,10 @@ done all of the following:
 1) Particle device(s) collecting data and [publishing
 events](https://docs.particle.io/reference/firmware/photon/#particle-publish-)
 
-2) [Set up Google Cloud Platform
+2) Set up [Google Cloud Platform
 Pub/Sub](https://docs.particle.io/tutorials/integrations/google-cloud-platform/#preconfiguration-in-google-cloud-platform)
 
-3) [Enabled the Google Cloud Platform integration on
+3) Enabled the [Google Cloud Platform integration on
 Particle](https://docs.particle.io/tutorials/integrations/google-cloud-platform/#enabling-the-integration)
 
 4) Created a Google Cloud Platform [private key](https://docs.particle.io/tutorials/integrations/google-cloud-platform/#creating-a-private-key)
@@ -66,8 +66,8 @@ should look something like this:
 Open up `tutorial.js` and update the `config` object for your Google
 Cloud Platform configuration:
 
-`gcpProjectId`: Your Google Cloud Platform Project ID
-`gcpPubSubSubscriptionName`: Your Google Cloud Platform Pub/Sub topic's subscription name
+- `gcpProjectId`: Your Google Cloud Platform Project ID
+- `gcpPubSubSubscriptionName`: Your Google Cloud Platform Pub/Sub topic's subscription name
 
 
 ## Running the application
