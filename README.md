@@ -72,5 +72,5 @@ Cloud Platform configuration:
 
 ## Running the application
 
-Install dependencies: `npm install`
-Run the script: `node tutorial.js`
+- Install dependencies: `npm install`
+- Run the script: `node tutorial.js`
