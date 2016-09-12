@@ -1,8 +1,8 @@
 /* CONFIGURATION */
 var config = {
 	gcpProjectId: '[YOUR PROJECT ID HERE]',
-	gcpServiceAccountKeyFilePath: './gcp_private_key.json',
-	gcpPubSubSubscriptionName: '[YOUR SUBSCRIPTION NAME HERE]'
+	gcpPubSubSubscriptionName: '[YOUR SUBSCRIPTION NAME HERE]',
+	gcpServiceAccountKeyFilePath: './gcp_private_key.json'
 }
 /* END CONFIGURATION */
 
