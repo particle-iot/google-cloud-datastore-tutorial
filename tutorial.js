@@ -54,11 +54,6 @@ function _createEventObjectForStorage(message, log) {
 	}
 };
 
-subscription.on('connection', function() {
-	console.log('connected');
-});
-
-
 subscription.on('message', function(message) {
 	console.log(colors.cyan('Particle event received from Pub/Sub!\r\n'), _createEventObjectForStorage(message, true));
 	// Called every time a message is received.
