@@ -68,9 +68,6 @@ should look something like this:
 Open up `tutorial.js` and update the `config` object for your Google
 Cloud Platform configuration:
 
-- `gcpProjectId`: Your Google Cloud Platform Project ID
-- `gcpPubSubSubscriptionName`: Your Google Cloud Platform Pub/Sub topic's subscription name
-
 ```
 var config = {
 	gcpProjectId: '[YOUR PROJECT ID]',
@@ -78,6 +75,8 @@ var config = {
 	gcpServiceAccountKeyFilePath: './gcp_private_key.json'
 }
 ```
+- `gcpProjectId`: Your Google Cloud Platform Project ID
+- `gcpPubSubSubscriptionName`: Your Google Cloud Platform Pub/Sub topic's subscription name
 
 ## Running the application
 
