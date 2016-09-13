@@ -79,9 +79,6 @@ var config = {
 }
 ```
 
-```
-
-
 ## Running the application
 
 - Install dependencies: `npm install`
