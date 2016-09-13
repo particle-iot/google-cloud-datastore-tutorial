@@ -17,8 +17,7 @@ done all of the following:
 1) Have Particle device(s) collecting data and [publishing
 events](https://docs.particle.io/reference/firmware/photon/#particle-publish-)
 
-2) Set up [Google Cloud Platform
-Pub/Sub](https://docs.particle.io/tutorials/topics/google-cloud-platform/#preconfiguration-in-google-cloud-platform)
+2) Have a [Google Cloud Platform account](https://cloud.google.com/free-trial/) with a [project](https://docs.particle.io/tutorials/topics/google-cloud-platform/#create-a-google-cloud-platform-project) and a [Pub/Sub topic](#create-a-pub-sub-topic-with-the-correct-permissions)
 
 3) Enabled the [Google Cloud Platform integration on
 Particle](https://docs.particle.io/tutorials/topics/google-cloud-platform/#enabling-the-integration)
