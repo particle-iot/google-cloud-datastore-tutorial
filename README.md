@@ -25,10 +25,10 @@ Particle](https://docs.particle.io/tutorials/topics/google-cloud-platform/#enabl
 4) Created a Google Cloud Platform [private key](https://docs.particle.io/tutorials/topics/google-cloud-platform/#creating-a-private-key)
 
 5) Created a Google Cloud Pub/Sub
-[subscription](https:///tutorials/topics/google-cloud-platform/#creating-a-pub-sub-subscription)
+[subscription](https://docs.particle.io/tutorials/topics/google-cloud-platform/#creating-a-pub-sub-subscription)
 
 For all required steps, check out [the full
-tutorial](/tutorials/topics/google-cloud-platform/#storing-data-in-a-datastore-database)
+tutorial](https://docs.particle.io/tutorials/topics/google-cloud-platform/#storing-data-in-a-datastore-database)
 
 ## Setup and configuration
 
