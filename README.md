@@ -1,33 +1,35 @@
-# Google Cloud Pub/Sub > Google Cloud Datastore Tutorial
+# Particle > Google Cloud Pub/Sub > Google Cloud Datastore Tutorial
 
 This tutorial code is intended to allow data to flow from Google Cloud
 Pub/Sub to Google Cloud Datastore. This is part of a larger tutorial for
-sending data from Particle devices into a hosted database. You can find
+sending data from Particle devices into a hosted database.
+
+You can find
 the full documentation on the Particle <> Google Cloud integration [on
 our
-docs](https://docs.particle.io/tutorials/integrations/google-cloud-platform/)
+docs](https://docs.particle.io/tutorials/topics/google-cloud-platform/)
 .
 
 ## Prerequisites
 Before this script will become useful to you, please make sure you have
 done all of the following:
 
-1) Particle device(s) collecting data and [publishing
+1) Have Particle device(s) collecting data and [publishing
 events](https://docs.particle.io/reference/firmware/photon/#particle-publish-)
 
 2) Set up [Google Cloud Platform
-Pub/Sub](https://docs.particle.io/tutorials/integrations/google-cloud-platform/#preconfiguration-in-google-cloud-platform)
+Pub/Sub](https://docs.particle.io/tutorials/topics/google-cloud-platform/#preconfiguration-in-google-cloud-platform)
 
 3) Enabled the [Google Cloud Platform integration on
-Particle](https://docs.particle.io/tutorials/integrations/google-cloud-platform/#enabling-the-integration)
+Particle](https://docs.particle.io/tutorials/topics/google-cloud-platform/#enabling-the-integration)
 
-4) Created a Google Cloud Platform [private key](https://docs.particle.io/tutorials/integrations/google-cloud-platform/#creating-a-private-key)
+4) Created a Google Cloud Platform [private key](https://docs.particle.io/tutorials/topics/google-cloud-platform/#creating-a-private-key)
 
 5) Created a Google Cloud Pub/Sub
-[subscription](https:///tutorials/integrations/google-cloud-platform/#creating-a-pub-sub-subscription)
+[subscription](https:///tutorials/topics/google-cloud-platform/#creating-a-pub-sub-subscription)
 
 For all required steps, check out [the full
-tutorial](/tutorials/integrations/google-cloud-platform/#storing-data-in-a-datastore-database)
+tutorial](/tutorials/topics/google-cloud-platform/#storing-data-in-a-datastore-database)
 
 ## Setup and configuration
 
