@@ -1,4 +1,4 @@
-# Particle > Google Cloud Pub/Sub > Datastore Tutorial
+# Particle --> Google Cloud Pub/Sub --> Datastore Tutorial
 
 This tutorial code is intended to allow data to flow from Google Cloud
 Pub/Sub to Google Cloud Datastore. This is part of a larger tutorial for
