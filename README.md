@@ -71,6 +71,16 @@ Cloud Platform configuration:
 - `gcpProjectId`: Your Google Cloud Platform Project ID
 - `gcpPubSubSubscriptionName`: Your Google Cloud Platform Pub/Sub topic's subscription name
 
+```
+var config = {
+	gcpProjectId: '[YOUR PROJECT ID]',
+	gcpPubSubSubscriptionName: '[YOUR PUB/SUB SUBSCRIPTION NAME]',
+	gcpServiceAccountKeyFilePath: './gcp_private_key.json'
+}
+```
+
+```
+
 
 ## Running the application
 
