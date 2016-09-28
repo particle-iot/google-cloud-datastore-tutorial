@@ -38,11 +38,7 @@ tutorial](https://docs.particle.io/tutorials/topics/google-cloud-platform/#stori
 
 #### Add your Private Key
 
-Create a file in the root of your local repository called `gcp_private_key.json`:
-
-```
-touch gcp_private_key.json
-```
+Create a file in the root of your local repository called `gcp_private_key.json`
 
 Next, paste in the contents of your Google Cloud Platform JSON private key. It
 should look something like this:
