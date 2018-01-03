@@ -34,7 +34,7 @@ tutorial](https://docs.particle.io/tutorials/topics/google-cloud-platform/#stori
 
 #### Clone the repository
 
-`git clone https://github.com/spark/google-cloud-datastore-tutorial.git`
+`git clone https://github.com/particle-iot/google-cloud-datastore-tutorial.git`
 
 #### Add your Private Key
 
