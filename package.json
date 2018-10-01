@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2",
-    "google-cloud": "^0.40.0",
+    "@google-cloud/datastore": "^1.4.2",
+    "@google-cloud/pubsub": "^0.20.0",
     "util": "^0.10.3"
   }
 }
