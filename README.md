@@ -34,7 +34,7 @@ tutorial](https://docs.particle.io/tutorials/topics/google-cloud-platform/#stori
 
 #### Clone the repository
 
-`git clone https://github.com/spark/google-cloud-datastore-tutorial.git`
+`git clone https://github.com/particle-iot/google-cloud-datastore-tutorial.git`
 
 #### Add your Private Key
 
@@ -64,7 +64,7 @@ Open up `tutorial.js` and update the `config` object for your Google
 Cloud Platform configuration:
 
 ```
-var config = {
+let config = {
 	gcpProjectId: '[YOUR PROJECT ID]',
 	gcpPubSubSubscriptionName: '[YOUR PUB/SUB SUBSCRIPTION NAME]',
 	gcpServiceAccountKeyFilePath: './gcp_private_key.json'
