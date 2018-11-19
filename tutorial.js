@@ -76,7 +76,7 @@ function _createParticleEventObjectForStorage(message, log) {
         gc_pub_sub_id: message.id,
         device_id: message.attributes.device_id,
         event: message.attributes.event,
-        data: data,
+        data: message.data,
         published_at: message.attributes.published_at
     }
 
